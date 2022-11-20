@@ -20,6 +20,7 @@ print(type(floatNumber))
 intNumber = 25
 print(intNumber)
 
+
 #Write a program to declare a floating value 25.77 and convert it to integer and print the result
 
 floatNumber = 25.77
